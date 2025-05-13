@@ -1,7 +1,5 @@
 # 403bypass
 
-# 403Bypasser
-
 ![image](https://github.com/user-attachments/assets/d0ac9438-9ec4-486a-9998-601f31539958)
 
 
